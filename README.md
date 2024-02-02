@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi I'm Remy.M.Ali
+
+🔭 I’m currently working on React Projects
+
+🌱  I'm a self-driven learner passionate about adopting new technologies. Eager to enhance technical skills and contribute to both individual and collaborative projects.I’m currently learning Microservices,Docker,Kubernetes
+
+👯 I’m looking to collaborate on Live Projects
+
+📫 How to reach me remy.nisam@gmail.com
 
 <!--
 **remymali/remymali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on React Projects
 
-🌱  I'm a self-driven learner passionate about adopting new technologies. Eager to enhance technical skills and contribute to both individual and collaborative projects.I’m currently learning Microservices,Docker,Kubernetes
+🌱 I'm a self-motivated learner enthusiastic about embracing new technologies. I'm eager to improve my technical skills and contribute to both personal and collaborative projects. Currently, I'm diving into learning about Microservices, Docker, and Kubernetes.
 
 👯 I’m looking to collaborate on Live Projects
 
